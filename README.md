@@ -1,2 +1,2 @@
-# vsync-android-magisk-module
+# Enable VSync
 Enable VSync for Android
